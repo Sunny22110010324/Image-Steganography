@@ -23,14 +23,29 @@ a) Used for image manipulation such as opening, modifying, and saving images.
 
 b) Functions: Image.open(), Image.putpixel(), Image.getdata()
 
+**Install PIL (Pillow)**
+
+        _pip install Pillow_
+
 2) **cryptography.fernet:**
 
 a) Provides symmetric encryption and decryption, using AES encryption for secure data handling.
 
 b) Functions: Fernet(), Fernet.encrypt(), Fernet.decrypt()
 
+**Install Cryptography**
+
+        _pip install cryptography_
+
 3) **base64:**
 
 a) Encodes and decodes data to and from base64 format, ensuring the data is URL safe.
 
 b) Functions: base64.urlsafe_b64encode()
+
+**Install base64 (Built-in)**
+
+The base64 module is part of the Python standard library, so you don't need to install it separately. It is included with Python by default.
+
+<img src="C:\Users\itsme\OneDrive\Documents\EDUNET Proj\hacker.jpg" alt="Description" width="500" height="300">
+
