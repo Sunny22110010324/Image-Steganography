@@ -47,5 +47,5 @@ b) Functions: base64.urlsafe_b64encode()
 
 The base64 module is part of the Python standard library, so you don't need to install it separately. It is included with Python by default.
 
-<img src="C:\Users\itsme\OneDrive\Documents\EDUNET Proj\hacker.jpg" alt="Description" width="500" height="300">
+
 
