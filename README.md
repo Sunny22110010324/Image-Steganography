@@ -25,7 +25,7 @@ b) Functions: Image.open(), Image.putpixel(), Image.getdata()
 
 **Install PIL (Pillow)**
 
-        _pip install Pillow_
+        pip install Pillow
 
 2) **cryptography.fernet:**
 
@@ -35,7 +35,7 @@ b) Functions: Fernet(), Fernet.encrypt(), Fernet.decrypt()
 
 **Install Cryptography**
 
-        _pip install cryptography_
+        pip install cryptography
 
 3) **base64:**
 
@@ -46,6 +46,23 @@ b) Functions: base64.urlsafe_b64encode()
 **Install base64 (Built-in)**
 
 The base64 module is part of the Python standard library, so you don't need to install it separately. It is included with Python by default.
+
+**Output Images**
+
+The original image will remain visually unchanged, while the encoded image will have the hidden data embedded in its pixel values. The differences are imperceptible to the human eye but can be decoded using the provided decryption method.
+
+
+## Comparison of Original and Encoded Images
+
+
+
+| hacker.jpg | encrypted.png |
+|:--------:|:-------:|
+| <img src="hacker.jpg" alt="Original Image" width="400"/> | <img src="encrypted.png" alt="Encoded Image" width="400"/> |
+| Original | Encoded |
+
+
+        
 
 
 
