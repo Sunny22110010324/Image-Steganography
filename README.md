@@ -49,7 +49,7 @@ The base64 module is part of the Python standard library, so you don't need to i
 
 **Output Images**
 
-The original image will remain visually unchanged, while the encoded image will have the hidden data embedded in its pixel values. The differences are imperceptible to the human eye but can be decoded using the provided decryption method.
+The original image will remain visually unchanged, while the encoded image will have the hidden data embedded in its pixel values. The differences are imperceptible to the human eye but can be decoded using the provided decryption method. The output images are as follows:
 
 
 ## Comparison of Original and Encoded Images
