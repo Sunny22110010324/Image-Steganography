@@ -61,8 +61,16 @@ The original image will remain visually unchanged, while the encoded image will 
 | <img src="hacker.jpg" alt="Original Image" width="400"/> | <img src="encrypted.png" alt="Encoded Image" width="400"/> |
 | Original | Encoded |
 
+**Here is the Execution:**
 
-        
+**Encoding:**
+
+![image](https://github.com/user-attachments/assets/ae26e67f-1378-4194-a04f-9be8ee2d492b)
+
+**Decoding:**
+
+![image](https://github.com/user-attachments/assets/057bb472-75f5-477a-82a9-9439dd177b0c)
+
 
 
 
